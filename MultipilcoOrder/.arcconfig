@@ -1,0 +1,7 @@
+{
+  "phabricator.uri" : "https://onemobile2.phacility.com",
+  "repository.callsign" : "REPO",
+  "phutil_libraries": [
+    ".arclib"
+  ]
+}
